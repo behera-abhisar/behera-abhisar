@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### HackerRank Profile
 
-<table>
+<table style="width: 100%;">
   <tr>
     <td>
       <div style="display: flex; align-items: center;">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
       @abhisarbehera
     </td>
     <td>
-      <a href="https://www.hackerrank.com/profile/abhisarbehera" target="_blank">
+      <a href="https://www.hackerrank.com/profile/abhisarbehera">
         Visit my HackerRank Profile
       </a>
     </td>
