@@ -28,7 +28,6 @@ Here are some ideas to get you started:
           height="64"
           style="vertical-align: middle; margin-right: 8px;" 
         />
-        <span style="font-size: 18px;">HackerRank</span>
       </div>
     </td>
     <td>
