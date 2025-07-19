@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### HackerRank Profile
-[![HackerRank]](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)(https://www.hackerrank.com/profile/abhisarbehera)
+[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)](https://www.hackerrank.com/profile/abhisarbehera)
