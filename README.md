@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img 
-        src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" 
-        alt="HackerRank" 
-        width="64"
-        height="64"
-        style="vertical-align: middle; margin-right: 8px;
-      />
-      <span style="font-size: 18px;">HackerRank</span>
+      <div style="display: flex; align-items: center;">
+        <img 
+          src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" 
+          alt="HackerRank" 
+          width="64"
+          height="64"
+          style="vertical-align: middle; margin-right: 8px;
+        />
+        <span style="font-size: 18px;">HackerRank</span>
+      </div>
     </td>
     <td>
       @abhisarbehera
