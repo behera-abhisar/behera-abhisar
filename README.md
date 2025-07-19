@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### HackerRank Profile
 
-<table width=100%">
+<table width="100%">
   <tr>
     <td style="width: 33%;">
       <div style="display: flex; align-items: center;">
