@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### HackerRank Profile
-[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)](https://www.hackerrank.com/profile/abhisarbehera)
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/abhisarbehera" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="128" height="128" />
+  </a>
+  <p>
+    <a href="https://www.hackerrank.com/profile/abhisarbehera" target="_blank">Visit my HackerRank Profile</a>
+  </p>
+</div>
