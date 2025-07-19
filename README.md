@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ### HackerRank Profile
 
-<table style="width: 100%;">
+<table width=100%">
   <tr>
     <td style="width: 33%;">
       <div style="display: flex; align-items: center;">
         <img 
           src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" 
           alt="HackerRank" 
-          width="48" 
-          height="48" 
+          width="64" 
+          height="64" 
           style="margin-right: 8px;" 
         />
       </div>
