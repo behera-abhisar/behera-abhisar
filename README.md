@@ -17,23 +17,23 @@ Here are some ideas to get you started:
 
 ### HackerRank Profile
 
-<table width="100%">
+<table>
   <tr>
-    <td style="width: 33%;">
+    <td>
       <div style="display: flex; align-items: center;">
         <img 
           src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" 
           alt="HackerRank" 
-          width="64" 
-          height="64" 
-          style="margin-right: 8px;" 
+          width="64"
+          height="64"
+          style="vertical-align: middle; margin-right: 8px;" 
         />
       </div>
     </td>
-    <td style="width: 33%; text-align: center;">
+    <td>
       @abhisarbehera
     </td>
-    <td style="width: 33%; text-align: right;">
+    <td>
       <a href="https://www.hackerrank.com/profile/abhisarbehera">
         Visit my HackerRank Profile
       </a>
