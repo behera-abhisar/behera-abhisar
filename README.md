@@ -23,9 +23,11 @@ Here are some ideas to get you started:
       <img 
         src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" 
         alt="HackerRank" 
-        width="48" height="48" 
+        width="64"
+        height="64"
+        style="vertical-align: middle; margin-right: 8px;
       />
-      HackerRank
+      <span style="font-size: 18px;">HackerRank</span>
     </td>
     <td>
       @abhisarbehera
